@@ -31,9 +31,9 @@ export default function Projects() {
       </p>
 	  	                        <div>
                                 <a
-                                    className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="/connect" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
-								<i className="fas fa-project-diagram" />
+								<i href="/connect" className="fas fa-project-diagram" />
                                 <a href="/connect" className="text-zinc-400 hover:text-primary hover:dark:text-white">Play Now</a>
                                 </a>
                             </div>
@@ -51,9 +51,9 @@ export default function Projects() {
 	  
 	                        <div>
                                 <a
-                                    className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="/changelog" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
-								<i className="fas fa-project-diagram" />
+								<i href="/changelog" className="fas fa-project-diagram" />
                                 <a href="/changelog" className="text-zinc-400 hover:text-primary hover:dark:text-white">View Changelogs</a>
                                 </a>
                             </div>
@@ -71,9 +71,9 @@ export default function Projects() {
 	  
 	                        <div>
                                 <a
-                                    className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="/command" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
-								<i className="fas fa-project-diagram" />
+								<i href="/command" className="fas fa-project-diagram" />
                                 <a href="/command" className="text-zinc-400 hover:text-primary hover:dark:text-white">View Command List</a>
                                 </a>
                             </div>
@@ -91,9 +91,9 @@ export default function Projects() {
 	  
 	                        <div>
                                 <a
-                                    className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="/mainstat" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
-								<i className="fas fa-project-diagram" />
+								<i href="/mainstat" className="fas fa-project-diagram" />
                                 <a href="/mainstat" className="text-zinc-400 hover:text-primary hover:dark:text-white">View Server Status</a>
                                 </a>
                             </div>
@@ -116,9 +116,9 @@ export default function Projects() {
 	  
 	                        <div>
                                 <a
-                                    className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="/mainprojects" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
-								<i className="" />
+								<i href="/mainprojects" className="" />
                                 <a href="/mainprojects" className="text-zinc-400 hover:text-primary hover:dark:text-white">Back</a>
                                 </a>
                             </div>
