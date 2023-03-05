@@ -21,12 +21,12 @@ export default function Projects() {
 									  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
-                   <h1 className="text-4xl font-bold">Genshin Impact <span className="relative whitespace-nowrap text-primary">PS</span></h1>
+                   <h1 className="text-4xl font-bold">Private Server <span className="relative whitespace-nowrap text-primary">(PS)</span></h1>
 				   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
                     <p className="text-xl mt-1">
-                        You can play Genshin Impact outside the Official Server by using GenshinPS. You can get and unlock all items, characters and weapons with GenshinPS.<i className="" />
+                        Play Anime Game outside the Official Server by using PS. You can get and unlock all items, characters and weapons with PS.<i className="" />
                     </p>
 
 					<h1 className="text-4xl font-bold"><span className="relative whitespace-nowrap text-primary"></span> </h1>
@@ -38,7 +38,7 @@ export default function Projects() {
                                     className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
 								<i className="fas fa-project-diagram" />
-                                <a href="/genshinps" className="text-zinc-400 hover:text-primary hover:dark:text-white">GenshinPS Projects</a>
+                                <a href="/genshinps" className="text-zinc-400 hover:text-primary hover:dark:text-white">Genshin Impact (Server Closed)</a>
                                 </a>
                             </div>
 																  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
@@ -60,19 +60,41 @@ export default function Projects() {
                                     className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
 								<i className="fas fa-project-diagram" />
-                                <a href="/psmods" className="text-zinc-400 hover:text-primary hover:dark:text-white">PlayStation Projects</a>
+                                <a href="/psmods" className="text-zinc-400 hover:text-primary hover:dark:text-white">PS3 XierraCFW 4.90 (Coming Soon)</a>
+                                </a>
+                            </div>
+																					  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+	  
+	                        <div>
+                                <a
+                                    className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                >
+								<i className="fas fa-project-diagram" />
+                                <a href="/psmodsold" className="text-zinc-400 hover:text-primary hover:dark:text-white">PS3 XierraCFW 4.89</a>
                                 </a>
                             </div>
 																  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
-																	  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+	  																					  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
-																	  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+	  																  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
-		                        <div>
+	  																					  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+	  																  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+	  																					  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+	  
+	                        <div>
                                 <a
                                     className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
