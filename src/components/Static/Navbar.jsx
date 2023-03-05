@@ -26,22 +26,22 @@ export default function Navbar() {
             active: router.pathname === '/'
         },
         {
-            link: '/genshinps',
-            label: 'GenshinPS Projects',
+            link: '/mainprojects',
+            label: 'Projects',
             icon: {
                 default: 'fal fa-project-diagram',
                 active: 'fas fa-project-diagram'
             },
-            active: router.pathname === '/genshinps'
+            active: router.pathname === '/mainprojects'
         },
 		{
-            link: '/psmods',
-            label: 'PlayStation Projects',
+            link: '/login',
+            label: 'Login',
             icon: {
                 default: 'fal fa-project-diagram',
                 active: 'fas fa-project-diagram'
             },
-            active: router.pathname === '/psmods'
+            active: router.pathname === '/login'
         }
     ]
 
