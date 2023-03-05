@@ -75,6 +75,30 @@ export default function Projects() {
                                 <a href="/psmodsold" className="text-zinc-400 hover:text-primary hover:dark:text-white">PS3 XierraCFW 4.89</a>
                                 </a>
                             </div>
+																						  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+	  
+	                        <div>
+                                <a
+                                    className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                >
+								<i className="fas fa-project-diagram" />
+                                <a href="/psmods488" className="text-zinc-400 hover:text-primary hover:dark:text-white">PS3 XierraCFW 4.88</a>
+                                </a>
+                            </div>
+																						  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+	  
+	                        <div>
+                                <a
+                                    className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                >
+								<i className="fas fa-project-diagram" />
+                                <a href="/psmods487" className="text-zinc-400 hover:text-primary hover:dark:text-white">PS3 XierraCFW 4.87</a>
+                                </a>
+                            </div>
 																  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
