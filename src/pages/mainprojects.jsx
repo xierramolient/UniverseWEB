@@ -41,7 +41,7 @@ export default function Projects() {
       </p>
 	  	                        <div>
                                 <a
-                                    href="/genshinps" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="/genshinps" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
 								<i href="/genshinps" className="fas fa-project-diagram" />
                                 <a href="/genshinps" className="text-zinc-400 hover:text-primary hover:dark:text-white">Genshin Impact (Server Closed)</a>
@@ -52,7 +52,7 @@ export default function Projects() {
       </p>
 	                        <div>
                                 <a
-                                    href="/starrailps" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="/starrailps" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
 								<i href="/starrailps" className="fas fa-project-diagram" />
                                 <a href="/starrailps" className="text-zinc-400 hover:text-primary hover:dark:text-white">Star Rail (Server Unavailable)</a>
@@ -80,9 +80,9 @@ export default function Projects() {
 	  
 	                        <div>
                                 <a
-                                    className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="/psmods" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
-								<i className="fas fa-project-diagram" />
+								<i href="/psmods" className="fas fa-project-diagram" />
                                 <a href="/psmods" className="text-zinc-400 hover:text-primary hover:dark:text-white">PS3 XierraCFW 4.90 (Coming Soon)</a>
                                 </a>
                             </div>
@@ -92,9 +92,9 @@ export default function Projects() {
 	  
 	                        <div>
                                 <a
-                                    className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="/psmodsold" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
-								<i className="fas fa-project-diagram" />
+								<i href="/psmodsold" className="fas fa-project-diagram" />
                                 <a href="/psmodsold" className="text-zinc-400 hover:text-primary hover:dark:text-white">PS3 XierraCFW 4.89</a>
                                 </a>
                             </div>
@@ -104,9 +104,9 @@ export default function Projects() {
 	  
 	                        <div>
                                 <a
-                                    className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="/psmods488" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
-								<i className="fas fa-project-diagram" />
+								<i href="/psmods488" className="fas fa-project-diagram" />
                                 <a href="/psmods488" className="text-zinc-400 hover:text-primary hover:dark:text-white">PS3 XierraCFW 4.88</a>
                                 </a>
                             </div>
@@ -116,9 +116,9 @@ export default function Projects() {
 	  
 	                        <div>
                                 <a
-                                    className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="/psmods487" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
-								<i className="fas fa-project-diagram" />
+								<i href="/psmods487" className="fas fa-project-diagram" />
                                 <a href="/psmods487" className="text-zinc-400 hover:text-primary hover:dark:text-white">PS3 XierraCFW 4.87</a>
                                 </a>
                             </div>
@@ -143,7 +143,7 @@ export default function Projects() {
 	  
 	                        <div>
                                 <a
-                                    className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="https://www.xierraps.xyz" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
 								<i className="" />
                                 <a href="https://www.xierraps.xyz" className="text-zinc-400 hover:text-primary hover:dark:text-white">Back</a>
