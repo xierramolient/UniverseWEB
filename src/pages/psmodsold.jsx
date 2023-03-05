@@ -31,9 +31,9 @@ export default function Projects() {
       </p>
 	  	                        <div>
                                 <a
-                                    className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="https://download1519.mediafire.com/42am5wvfz7lgOKchQQFaj4DJQv7RhzfBveM80RyNnSXa3O0FZfzoRZug4biKRE7F3nrW_5UdeRCw4v2CxDtGc_l1He8Dig/qlyajnq44ykoznl/XierraCFW+Theme+Only+v4.89.rar" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
-								<i className="fas fa-project-diagram" />
+								<i href="https://download1519.mediafire.com/42am5wvfz7lgOKchQQFaj4DJQv7RhzfBveM80RyNnSXa3O0FZfzoRZug4biKRE7F3nrW_5UdeRCw4v2CxDtGc_l1He8Dig/qlyajnq44ykoznl/XierraCFW+Theme+Only+v4.89.rar" className="fas fa-project-diagram" />
                                 <a href="https://download1519.mediafire.com/42am5wvfz7lgOKchQQFaj4DJQv7RhzfBveM80RyNnSXa3O0FZfzoRZug4biKRE7F3nrW_5UdeRCw4v2CxDtGc_l1He8Dig/qlyajnq44ykoznl/XierraCFW+Theme+Only+v4.89.rar" className="text-zinc-400 hover:text-primary hover:dark:text-white">Download</a>
                                 </a>
                             </div>
@@ -51,9 +51,9 @@ export default function Projects() {
 	  
 	                        <div>
                                 <a
-                                    className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="/login" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
-								<i className="fas fa-project-diagram" />
+								<i href="/login" className="fas fa-project-diagram" />
                                 <a href="/login" className="text-zinc-400 hover:text-primary hover:dark:text-white">Buy Now</a>
                                 </a>
                             </div>
@@ -80,9 +80,9 @@ export default function Projects() {
 	  
 	                        <div>
                                 <a
-                                    className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="/mainprojects" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
-								<i className="" />
+								<i href="/mainprojects" className="" />
                                 <a href="/mainprojects" className="text-zinc-400 hover:text-primary hover:dark:text-white">Back</a>
                                 </a>
                             </div>
