@@ -68,10 +68,10 @@ export default function Projects() {
 	  
 	                        <div>
                                 <a
-                                    href="psmods" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="psmods" className=" gap- px-7 items-center h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
 								<i className="" />
-                                <a href="psmods" className="text-zinc-400 hover:text-primary hover:dark:text-white">Back</a>
+                                <a href="psmods" className="font-display text-1x1 hover:text-primary hover:dark:text-white">BACK</a>
                                 </a>
                             </div>
 
