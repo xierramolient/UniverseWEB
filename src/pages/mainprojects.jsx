@@ -26,7 +26,7 @@ export default function Projects() {
        ‎ 
       </p>
 	  					                <div className="relative flex-shrink-0">
-                    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVTul7uoStNeZsjErrrAMOaFG-saw1bAZ2XqKYfylCa3mUgW2KQxoW5kmBgt9RmKreBowJV7HF9Jq3F6z_jSqh_i59BT_K91RubWtHeHOrxc7q4D9gSlN5jIrLi99mbELd6PQ0DJw4ZtINCymH83QGvB4AjqoETG8dKC24y7fC-lg7xQlVzIqPxMwX/s1600/ga.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
+                    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8aZZC525ONXZ0-PPsYTLCUvbeGVJwpRJTVUENNTXVB-NfXRQ3-n9sltm1z3v2tAA76YKKXG5x8Lg2xEUft2F0mSAFsx9xQglRek9r3WSPfAfI4Vh9426V7qMu-PeZpGCyL-IPOQMvYd_h0tH0NTnnPel1bxxVmZrece1l0oN0wAVEm4UuWC-dzdv4/s1600/20230305_230750.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
                 </div>
 								   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
