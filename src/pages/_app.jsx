@@ -23,7 +23,6 @@ function MyApp({ Component, pageProps }) {
             content={event => <>
 
               <div className="pt-2">
-                <Item icon={<i className="fa fa-code" />} text="Xierra GitHub" onClick={event.xierragit} />
 				<Item icon={<i className="fa fa-code" />} text="Projects" onClick={event.projects} />
 			    <Item icon={<i className="fa fa-code" />} text="Home" onClick={event.home} />
 				
