@@ -41,10 +41,21 @@ export default function Projects() {
       </p>
 	  	                        <div>
                                 <a
+                                    href="/genshinps" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                >
+								<i href="/genshinps" className="fas fa-project-diagram" />
+                                <a href="/genshinps" className="text-zinc-400 hover:text-primary hover:dark:text-white">Genshin Impact (Server Closed)</a>
+                                </a>
+                            </div>
+																  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+	                        <div>
+                                <a
                                     className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
 								<i className="fas fa-project-diagram" />
-                                <a href="/genshinps" className="text-zinc-400 hover:text-primary hover:dark:text-white">Genshin Impact (Server Closed)</a>
+                                <a href="/starrailps" className="text-zinc-400 hover:text-primary hover:dark:text-white">Star Rail (Server Unavailable)</a>
                                 </a>
                             </div>
 																  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
