@@ -36,6 +36,13 @@ export default function Home() {
 		
 <a href="/xierracfw" className="text-zinc-400 hover:text-primary hover:dark:text-white">OPEN XIERRACFW</a>
 	    </div>
+									   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+        <div className="rounded-lg border-2 border-gray-500/10 border-dotted px-4 py-2 text-center">
+		
+<a href="/mainprojects" className="text-zinc-400 hover:text-primary hover:dark:text-white">BACK</a>
+	    </div>
 	  						   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
