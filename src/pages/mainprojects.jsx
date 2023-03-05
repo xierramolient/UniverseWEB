@@ -25,6 +25,12 @@ export default function Projects() {
 				   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
+	  					                <div className="relative flex-shrink-0">
+                    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVTul7uoStNeZsjErrrAMOaFG-saw1bAZ2XqKYfylCa3mUgW2KQxoW5kmBgt9RmKreBowJV7HF9Jq3F6z_jSqh_i59BT_K91RubWtHeHOrxc7q4D9gSlN5jIrLi99mbELd6PQ0DJw4ZtINCymH83QGvB4AjqoETG8dKC24y7fC-lg7xQlVzIqPxMwX/s1600/ga.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
+                </div>
+								   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
                     <p className="text-xl mt-1">
                         Play Anime Game outside the Official Server by using PS. You can get and unlock all items, characters and weapons with PS.<i className="" />
                     </p>
@@ -44,12 +50,18 @@ export default function Projects() {
 																  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
-	                     <h1 className="text-4xl font-bold">PlayStation <span className="relative whitespace-nowrap text-primary">Modifications</span></h1>
+	                     <h1 className="text-4xl font-bold">PlayStation 3 <span className="relative whitespace-nowrap text-primary">Modifications</span></h1>
 				   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
                     <p className="text-xl mt-1">
-                        Some Software for Jailbreaking, Modificating, Debugging, Hijacking and Cheating a PlayStation Console, this Projects was only for PS4 and PS3 (PS5 will posted soon...)<i className="" />
+					                <div className="relative flex-shrink-0">
+                    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJCqbqwKGq5PIRR4j-y8Qg2ZYKVN11BKe36nU-hWC2_O5ovVlPxTG8h0Jgt2J8lnYhfTeEniONkmzU8r2dm4qgbrmBtIQARVN_27rniWbOTvlxOlYKbiGVOdbv361aDMyh-oOhRgRsIidDCgeBfQsUGQ-XAnlkwqyaHuzt1NXYfCdgUVIk0lb7xuZS/s1600/20230305_195823.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
+                </div>
+								   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+                        Some Software for Jailbreaking, Modificating, Debugging, Hijacking and Cheating a PlayStation Console, this Projects was only for PS3 (PS4 and PS5 will be posted soon...)<i className="" />
                     </p>
 														  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
