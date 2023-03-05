@@ -137,7 +137,7 @@ export default function Navbar() {
                                     className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
                                     <i className="fas fa-envelope text-2xl" />
-                                    <p>Contact Xierra</p>
+                                    <p>Contact</p>
                                 </a>
                             </Link>
 							                            <Link href="/social">
