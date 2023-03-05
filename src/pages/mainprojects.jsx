@@ -135,7 +135,7 @@ export default function Projects() {
                                     className="flex gap-2 px-4 items-center w-full h-12 bg-gray-500/5 rounded-lg hover:bg-gray-500/10 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
 								<i className="" />
-                                <a href="https://xierraps.xyz" className="text-zinc-400 hover:text-primary hover:dark:text-white">Back</a>
+                                <a href="https://www.xierraps.xyz" className="text-zinc-400 hover:text-primary hover:dark:text-white">Back</a>
                                 </a>
                             </div>
 
