@@ -77,6 +77,12 @@ export default function Projects() {
 														  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
+	  <p className="text-xl mt-1">
+                       + XierraCFW Releases<i className="" />
+                    </p>
+																			  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
 	  
 	                        <div>
                                 <a
