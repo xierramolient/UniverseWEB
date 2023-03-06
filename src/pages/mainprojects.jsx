@@ -175,6 +175,37 @@ export default function Projects() {
                                 <a href="https://www.xierraps.xyz/hfw" className="text-zinc-400 hover:text-primary hover:dark:text-white">View HFW Releases</a>
                                 </a>
                             </div>
+																											  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">       ‎ 
+
+      </p>
+
+	  <p className="text-xl mt-1">
+
+                       + Online Patch for 4.89<i className="" />
+
+                    </p>
+
+																										  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+
+       ‎ 
+
+      </p>
+
+						                        <div>
+
+                                <a
+
+                                    href="https://www.xierraps.xyz/490patch" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+
+                                >
+
+								<i href="https://www.xierraps.xyz/490patch" className="fas fa-project-diagram" />
+
+                                <a href="https://www.xierraps.xyz/490patch" className="text-zinc-400 hover:text-primary hover:dark:text-white">Install Online Patch 4.89</a>
+
+                                </a>
+
+                            </div>
 								  																										  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
