@@ -22,16 +22,38 @@ export default function Posts() {
 												   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
-<a href="https://www.instagram.com/xierramolient" className="text-zinc-400 hover:text-primary hover:dark:text-white">Instagram</a>
-								   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+	
+							                        <div>
+                                <a
+                                    href="https://www.instagram.com/xierramolient" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                >
+								<i href="https://www.instagram.com/xierramolient" className="fas fa-project-diagram" />
+                                <a href="https://www.instagram.com/xierramolient" className="text-zinc-400 hover:text-primary hover:dark:text-white">Instagram</a>
+                                </a>
+                            </div>
+								  																										  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
       </p>
-	  <a href="https://www.youtube.com/channel/UCrtFpBbTEUFfpWRIBc42XsQ" className="text-zinc-400 hover:text-primary hover:dark:text-white">YouTube</a>
-								   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+							                        <div>
+                                <a
+                                    href="https://www.youtube.com/channel/UCrtFpBbTEUFfpWRIBc42XsQ" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                >
+								<i href="https://www.youtube.com/channel/UCrtFpBbTEUFfpWRIBc42XsQ" className="fas fa-project-diagram" />
+                                <a href="https://www.youtube.com/channel/UCrtFpBbTEUFfpWRIBc42XsQ" className="text-zinc-400 hover:text-primary hover:dark:text-white">YouTube</a>
+                                </a>
+                            </div>
+								  																										  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
       </p>
-	  <a href="https://wa.me/62895337254538" className="text-zinc-400 hover:text-primary hover:dark:text-white">Whatsapp</a>
-								   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
-      </p>
-	  												   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+							                        <div>
+                                <a
+                                    href="https://wa.me/62895337254538" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                >
+								<i href="https://wa.me/62895337254538" className="fas fa-project-diagram" />
+                                <a href="https://wa.me/62895337254538" className="text-zinc-400 hover:text-primary hover:dark:text-white">Whatsapp</a>
+                                </a>
+                            </div>
+								  																										  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
 
