@@ -17,7 +17,7 @@ export default function Projects() {
     return <>
         <div className="max-w-7xl mx-auto">
             <div className="py-24">
-			        <h1 className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-tr from-primary to-white">XierraCFW (COMING SOON)</h1>
+			        <h1 className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-tr from-primary to-white">XierraCFW 4.89 (COMING SOON)</h1>
 									  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
