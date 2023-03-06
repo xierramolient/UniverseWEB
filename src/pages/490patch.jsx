@@ -21,7 +21,7 @@ export default function Projects() {
 									  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
-                   <h1 className="text-4xl font-bold">Private Server <span className="relative whitespace-nowrap text-primary">(PS)</span></h1>
+
 				   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>								  
@@ -34,17 +34,17 @@ export default function Projects() {
        ‎ 
       </p>
 	  	  <p className="text-xl mt-1">
-                       + Genshin Impact (Server Closed)<i className="" />
+                       + Download Patch<i className="" />
                     </p>
 																					  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
 	  	                        <div>
                                 <a
-                                    href="/genshinps" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                    href="https://www.mediafire.com/file/ucn84i2zdbxtyxn/ps3-updatelist.txt/file?dkey=5g0naotkblb&r=1981" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
                                 >
-								<i href="/genshinps" className="fas fa-project-diagram" />
-                                <a href="/genshinps" className="text-zinc-400 hover:text-primary hover:dark:text-white">Genshin Impact (Server Closed)</a>
+								<i href="https://www.mediafire.com/file/ucn84i2zdbxtyxn/ps3-updatelist.txt/file?dkey=5g0naotkblb&r=1981" className="fas fa-project-diagram" />
+                                <a href="https://www.mediafire.com/file/ucn84i2zdbxtyxn/ps3-updatelist.txt/file?dkey=5g0naotkblb&r=1981" className="text-zinc-400 hover:text-primary hover:dark:text-white">Download</a>
                                 </a>
                             </div>
 																  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
