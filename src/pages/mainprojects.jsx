@@ -17,6 +17,10 @@ export default function Projects() {
     return <>
         <div className="max-w-7xl mx-auto">
             <div className="py-24">
+<h1 className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-tr from-primary to-white">PS3 Projeects</h1>
+									  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
 			        
 	                     <h1 className="text-4xl font-bold">PlayStation 3 <span className="relative whitespace-nowrap text-primary">Mods and Software</span></h1>
 				   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
@@ -236,10 +240,11 @@ export default function Projects() {
 																																					  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
-<h1 className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-tr from-primary to-white">XierraPS Projects</h1>
+<h1 className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-tr from-primary to-white">Game Projects</h1>
 									  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
+
                    <h1 className="text-4xl font-bold">Private Server <span className="relative whitespace-nowrap text-primary">(PS)</span></h1>
 				   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
