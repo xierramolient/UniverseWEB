@@ -28,7 +28,7 @@ export default function Projects() {
       </p>
                     <p className="text-xl mt-1">
 					                <div className="relative flex-shrink-0">
-                    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_O_JfcSOivNc70GBLjskPe3j0DWrX6oTjZCyuw_nNXFDW3dS5uL3zbwQ-q8ahkUb_DkwkxX1lin1TtOmMI2Yz4po7mi5snp-MkubMQzZsq4rbLQJsIfeJEdeKIhcKV9DHZ_sGuxJL3t9kDkALDQGDMmerE16pczPqAoMjv8hIcDQNgZa_DQOLfzl8/s1600/20230305_231508.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
+                    <img src="https://www.xierraps.xyz/ps3.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
                 </div>
 								   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
@@ -164,7 +164,7 @@ export default function Projects() {
       </p>
                     <p className="text-xl mt-1">
 					                <div className="relative flex-shrink-0">
-                    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZHb2jEyBfAhGIQUgrAN-EOqU2cCy8H5yv1K5seHpJrL3VaPeA2TfjXGuKBeS_NPbJ1EMIKgsL2iwS1kboCz7JqqP0AjUs9UEuEdu8jrsJBSJ_mtVEjVL0OMYiwroscCMdhnVGYNQ9Odb5VJ1YecDg_VJHcbkamKWGULEI6XlP0jce0H3qFxoOwY7F/s1600/20230307_121523.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
+                    <img src="https://www.xierraps.xyz/henps3.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
                 </div>
 								   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
@@ -250,7 +250,7 @@ export default function Projects() {
        ‎ 
       </p>
 	  					                <div className="relative flex-shrink-0">
-                    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8aZZC525ONXZ0-PPsYTLCUvbeGVJwpRJTVUENNTXVB-NfXRQ3-n9sltm1z3v2tAA76YKKXG5x8Lg2xEUft2F0mSAFsx9xQglRek9r3WSPfAfI4Vh9426V7qMu-PeZpGCyL-IPOQMvYd_h0tH0NTnnPel1bxxVmZrece1l0oN0wAVEm4UuWC-dzdv4/s1600/20230305_230750.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
+                    <img src="https://www.xierraps.xyz/ps.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
                 </div>
 								   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
