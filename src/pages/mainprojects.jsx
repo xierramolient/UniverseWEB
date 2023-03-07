@@ -17,62 +17,7 @@ export default function Projects() {
     return <>
         <div className="max-w-7xl mx-auto">
             <div className="py-24">
-			        <h1 className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-tr from-primary to-white">XierraPS Projects</h1>
-									  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
-       ‎ 
-      </p>
-                   <h1 className="text-4xl font-bold">Private Server <span className="relative whitespace-nowrap text-primary">(PS)</span></h1>
-				   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
-       ‎ 
-      </p>
-	  					                <div className="relative flex-shrink-0">
-                    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8aZZC525ONXZ0-PPsYTLCUvbeGVJwpRJTVUENNTXVB-NfXRQ3-n9sltm1z3v2tAA76YKKXG5x8Lg2xEUft2F0mSAFsx9xQglRek9r3WSPfAfI4Vh9426V7qMu-PeZpGCyL-IPOQMvYd_h0tH0NTnnPel1bxxVmZrece1l0oN0wAVEm4UuWC-dzdv4/s1600/20230305_230750.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
-                </div>
-								   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
-       ‎ 
-      </p>
-                    <p className="text-xl mt-1">
-                        Play Anime Game outside the Official Server by using PS. You can get and unlock all items, characters and weapons with PS.<i className="" />
-                    </p>
-
-					<h1 className="text-4xl font-bold"><span className="relative whitespace-nowrap text-primary"></span> </h1>
-									  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
-       ‎ 
-      </p>
-	  	  <p className="text-xl mt-1">
-                       + Genshin Impact (Server Closed)<i className="" />
-                    </p>
-																					  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
-       ‎ 
-      </p>
-	  	                        <div>
-                                <a
-                                    href="/genshinps" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
-                                >
-								<i href="/genshinps" className="fas fa-project-diagram" />
-                                <a href="/genshinps" className="text-zinc-400 hover:text-primary hover:dark:text-white">Genshin Impact (Server Closed)</a>
-                                </a>
-                            </div>
-																  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
-       ‎ 
-      </p>
-	  	  <p className="text-xl mt-1">
-                       + Honkai: Star Rail (Unavailable)<i className="" />
-                    </p>
-																					  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
-       ‎ 
-      </p>
-	                        <div>
-                                <a
-                                    href="/starrailps" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
-                                >
-								<i href="/starrailps" className="fas fa-project-diagram" />
-                                <a href="/starrailps" className="text-zinc-400 hover:text-primary hover:dark:text-white">Star Rail (Server Unavailable)</a>
-                                </a>
-                            </div>
-																  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
-       ‎ 
-      </p>
+			        
 	                     <h1 className="text-4xl font-bold">PlayStation 3 <span className="relative whitespace-nowrap text-primary">Mods and Software</span></h1>
 				   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
@@ -288,6 +233,65 @@ export default function Projects() {
                                 <a href="/HEN_4.84.pkg" className="text-zinc-400 hover:text-primary hover:dark:text-white">Download 4.84 Packages</a>
                                 </a>
                             </div>
+																																					  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+<h1 className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-tr from-primary to-white">XierraPS Projects</h1>
+									  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+                   <h1 className="text-4xl font-bold">Private Server <span className="relative whitespace-nowrap text-primary">(PS)</span></h1>
+				   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+	  					                <div className="relative flex-shrink-0">
+                    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8aZZC525ONXZ0-PPsYTLCUvbeGVJwpRJTVUENNTXVB-NfXRQ3-n9sltm1z3v2tAA76YKKXG5x8Lg2xEUft2F0mSAFsx9xQglRek9r3WSPfAfI4Vh9426V7qMu-PeZpGCyL-IPOQMvYd_h0tH0NTnnPel1bxxVmZrece1l0oN0wAVEm4UuWC-dzdv4/s1600/20230305_230750.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
+                </div>
+								   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+                    <p className="text-xl mt-1">
+                        Play Anime Game outside the Official Server by using PS. You can get and unlock all items, characters and weapons with PS.<i className="" />
+                    </p>
+
+					<h1 className="text-4xl font-bold"><span className="relative whitespace-nowrap text-primary"></span> </h1>
+									  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+	  	  <p className="text-xl mt-1">
+                       + Genshin Impact (Server Closed)<i className="" />
+                    </p>
+																					  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+	  	                        <div>
+                                <a
+                                    href="/genshinps" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                >
+								<i href="/genshinps" className="fas fa-project-diagram" />
+                                <a href="/genshinps" className="text-zinc-400 hover:text-primary hover:dark:text-white">Genshin Impact (Server Closed)</a>
+                                </a>
+                            </div>
+																  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+	  	  <p className="text-xl mt-1">
+                       + Honkai: Star Rail (Unavailable)<i className="" />
+                    </p>
+																					  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
+	                        <div>
+                                <a
+                                    href="/starrailps" className="flex gap-2 px-4 items-center w-full h-12 bg-gray-50/10 rounded-lg hover:bg-gray-500/50 transition-all duration-200 text-zinc-400 hover:text-black hover:dark:text-white"
+                                >
+								<i href="/starrailps" className="fas fa-project-diagram" />
+                                <a href="/starrailps" className="text-zinc-400 hover:text-primary hover:dark:text-white">Star Rail (Server Unavailable)</a>
+                                </a>
+                            </div>
+																  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
+       ‎ 
+      </p>
 								  																										  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
       </p>
