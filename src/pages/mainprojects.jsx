@@ -215,8 +215,7 @@ export default function Projects() {
       </p>
                     <p className="text-xl mt-1">
 					                <div className="relative flex-shrink-0">
-                    <img src="www.xierraps.xyz/20230307_121523.png
-" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
+                    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZHb2jEyBfAhGIQUgrAN-EOqU2cCy8H5yv1K5seHpJrL3VaPeA2TfjXGuKBeS_NPbJ1EMIKgsL2iwS1kboCz7JqqP0AjUs9UEuEdu8jrsJBSJ_mtVEjVL0OMYiwroscCMdhnVGYNQ9Odb5VJ1YecDg_VJHcbkamKWGULEI6XlP0jce0H3qFxoOwY7F/s1600/20230307_121523.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
                 </div>
 								   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
