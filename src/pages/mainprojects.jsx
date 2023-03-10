@@ -28,7 +28,7 @@ export default function Projects() {
       </p>
                     <p className="text-xl mt-1">
 					                <div className="relative flex-shrink-0">
-                    <img src="https://www.xierraps.xyz/ps3.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
+                    <img src="https://universe.xierraps.xyz/ps3.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
                 </div>
 								   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
@@ -164,7 +164,7 @@ export default function Projects() {
       </p>
                     <p className="text-xl mt-1">
 					                <div className="relative flex-shrink-0">
-                    <img src="https://www.xierraps.xyz/henps3.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
+                    <img src="https://universe.xierraps.xyz/henps3.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
                 </div>
 								   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
@@ -250,7 +250,7 @@ export default function Projects() {
        ‎ 
       </p>
 	  					                <div className="relative flex-shrink-0">
-                    <img src="https://www.xierraps.xyz/ps.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
+                    <img src="https://universe.xierraps.xyz/ps.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
                 </div>
 								   				  	        <p className="mx-auto max-w-4xl font-display text-1x1 text-gray-500/50 text-center">
        ‎ 
