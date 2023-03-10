@@ -25,6 +25,15 @@ export default function Navbar() {
             },
             active: router.pathname === '/'
         },
+		{
+            link: 'https://ps.xierraps.xyz',
+            label: 'Xierra Network',
+            icon: {
+                default: 'fal fa-home',
+                active: 'fas fa-home'
+            },
+            active: router.pathname === 'https://ps.xierraps.xyz'
+        },
         {
             link: '/mainprojects',
             label: 'Projects',
